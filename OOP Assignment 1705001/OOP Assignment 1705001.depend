@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1615982835 source:c:\users\dell\documents\oop assignment 1705001\stack.c
+	<stdio.h>
+	<ctype.h>
+	"calc.h"
+
+1615981045 c:\users\dell\documents\oop assignment 1705001\calc.h
+
+1615982050 source:c:\users\dell\documents\oop assignment 1705001\getech.c
+	<stdio.h>
+	<ctype.h>
+	"calc.h"
+
+1615982050 source:c:\users\dell\documents\oop assignment 1705001\main.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	"calc.h"
+
+1615982050 source:c:\users\dell\documents\oop assignment 1705001\getop.c
+	<stdio.h>
+	<ctype.h>
+	"calc.h"
+
